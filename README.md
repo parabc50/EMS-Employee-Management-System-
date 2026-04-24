@@ -273,8 +273,8 @@ Manages in-app notifications for users.
 ## Support & Documentation
 
 For more information, refer to:
-- Database schema: [database.sql](database.sql)
-- Configuration: [include/config.php](include/config.php)
+- Database schema: [database.sql](ems_php_sql/database.sql)
+- Configuration: [include/config.php](ems_php_sql/include/config.php)
 - Project files in `/admin`, `/employee`, and `/include` directories
 
 ## License
