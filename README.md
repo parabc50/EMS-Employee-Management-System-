@@ -99,7 +99,7 @@ Or import using phpMyAdmin:
 
 ### 3. Configure Database Connection
 
-Edit [include/db.php](include/db.php) with your database credentials:
+Edit [include/db.php](ems_php_sql/include/db.php) with your database credentials:
 
 ```php
 $server = "localhost";
@@ -122,7 +122,7 @@ http://localhost/ems_php_sql/
 
 The application is configured for Indian Standard Time (Asia/Kolkata) by default. To change the timezone:
 
-Edit [include/config.php](include/config.php):
+Edit [include/config.php](ems_php_sql/include/config.php):
 
 ```php
 date_default_timezone_set('Your/Timezone');
