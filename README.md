@@ -1,9 +1,6 @@
 # Employee Management System (EMS)
 
-A comprehensive, modern, web-based Employee Management System built with PHP and MySQL. Designed for organizations to efficiently manage their workforce with a professional, interactive interface and role-based access control.
-
-###Demo :- http://parab-infosolution.infinityfreeapp.com/
-(Please use desktop to view the project; mobile view of the project is not fully furnished)
+A comprehensive, modern, web-based Employee Management System built with PHP and MySQL. Designed for organizations to efficiently manage their workforce with a professional, interactive interface and role-based access control.
 
 ## 🚀 Current Progress: UI Modernization (April 2026)
 
